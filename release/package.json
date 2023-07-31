@@ -14,6 +14,7 @@
     "azure-devops-node-api": "^10.2.2",
     "azure-pipelines-task-lib": "^4.2.0",
     "got": "^11.8.6",
+    "mockery": "^2.1.0",
     "node-getopt": "^0.3.2"
   }
 }

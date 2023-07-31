@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-#  ./dev.sh build/layout/test/package [Debug/Release] [optional: runtime ID]
+#  /home/acuntus/VS_CODE/azure-pipelines-agent/src/dev.sh build/layout/test/package [Debug/Release] [optional: runtime ID]
 #
 ###############################################################################
 
